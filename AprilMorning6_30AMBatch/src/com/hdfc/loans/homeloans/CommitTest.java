@@ -8,6 +8,7 @@ public class CommitTest
 	
 		System.out.println("This is to Test Commit functionality beteen Eclispe, Git Hub Desktop Client and Git Hub Server");
 		System.out.println("Second Change");
+		System.out.println("Third Change");
 	}
 
 }
