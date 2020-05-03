@@ -3,9 +3,10 @@ package com.hdfc.loans.homeloans;
 public class CommitTest 
 {
 
-	int xx = 10;
-	int yy = 20;
-	int zx = 30;
+	int a = 10;
+	int b = 20;
+	int c = 30;
+	int d;
 	
 	public static void main(String[] args) 
 	{
