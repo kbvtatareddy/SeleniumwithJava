@@ -37,7 +37,7 @@ public class ExceptionDemo
 			{
 				//e.printStackTrace();
 				//System.out.println(e);
-				System.out.println("Dr should be greater than zero");
+				System.out.println("Dr should be greater than zero..");
 			}
 			
 			//catch (ArithmeticException e) 
