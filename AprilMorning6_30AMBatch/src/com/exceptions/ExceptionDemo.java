@@ -38,6 +38,7 @@ public class ExceptionDemo
 				//e.printStackTrace();
 				//System.out.println(e);
 				System.out.println("Dr should be greater than zero..");
+				System.out.println("Please input Valid Data..");
 			}
 			
 			//catch (ArithmeticException e) 
